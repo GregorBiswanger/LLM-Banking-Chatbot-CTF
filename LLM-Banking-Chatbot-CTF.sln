@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LmSecuritySample", "LmSecuritySample\LmSecuritySample.csproj", "{68EF1B21-73D1-4E90-8812-056A4BBE147B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLM-Banking-Chatbot-CTF", "src\LLM-Banking-Chatbot-CTF.csproj", "{68EF1B21-73D1-4E90-8812-056A4BBE147B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
