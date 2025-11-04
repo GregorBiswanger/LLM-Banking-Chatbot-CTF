@@ -2,7 +2,7 @@
 name: Solution
 about: Submit your solution for a captured flag. Include model, prompt and reproduction
   steps.
-title: 'Solution: {model} {flag}'
+title: 'Solution: {language} {model} {flag}'
 labels: solution
 assignees: ''
 
